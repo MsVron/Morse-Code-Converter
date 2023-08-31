@@ -1,4 +1,4 @@
-# Morse Code Converter Example
+# Morse Code Converter
 
 This is a simple C program that allows you to convert text to Morse code and vice versa.
 
