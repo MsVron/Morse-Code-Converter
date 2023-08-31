@@ -48,5 +48,3 @@ To convert text to Morse code:
    ```
 
 The program will display the converted output accordingly.
-
-For more information on using the program, refer to the full README.md template.
